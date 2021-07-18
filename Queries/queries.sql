@@ -149,3 +149,10 @@ SELECT DISTINCT ON (rt.emp_no) rt.emp_no,
 FROM retirement_titles as rt
 ORDER BY rt.emp_no, rt.to_date DESC;
 
+-- Deliverable 1, Steps 15-20
+SELECT COUNT (ut.emp_no), 
+	ut.title
+-- INTO retiring_titles
+FROM unique_titles as ut
+GROUP BY ut.title
+ORDER BY count (ut.emp_no) DESC;
