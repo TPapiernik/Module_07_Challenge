@@ -20,7 +20,7 @@ Employees eligible for the Mentorship Program are those that: Were born between 
 
 ### Resources
 
-- Software: PostgreSQL 11 (Input/Output, and Queries processed via pgAdmin 4)
+- Software: PostgreSQL 11 (Input/Output, and Queries processed via pgAdmin 4), Jupyter notebook server 6.3.0, running Python 3.7.10 64-bit (Dependencies: os, matplotlib, pandas, numpy)
 - Data: This Analysis and Report was compiled using all Internal Company Data, Provided by Management:
 	`departments.csv`
 	`dept_emp.csv`
@@ -70,7 +70,7 @@ In order to conserve space, the entire table will not be reproduced here, but it
 
 While exploring the data provided, and the relationships between them, we noticed a few things that were slightly out of the scope of our directive, but are definitely worth noting.
 
-1. Taking a look at just the Salaries Table, it would appear that either no employee has received a raise since January 31, 2001 at the latest, or else the original salaries data source has become corrupted, has not been updated, or there was some other error in data retrieval. A quick screen capture of what this looks like is shown here in Figure 1:
+1. Taking a look at just the Salaries Table, it would appear that either no employee has received a raise since January 31, 2001 at the latest, or else the original salaries data source has become corrupted, has not been updated, or there was some other error in data retrieval. A quick screen capture of what this looks like is shown here in Figure 1.
 
 **Figure 1:**
 
