@@ -80,7 +80,7 @@ While exploring the data provided and the relationships between them, we noticed
 
 2. Of the 90,398 employees eligible for retirement, 57,668--or 63.8% of the group--currently occupy Senior Roles. Without taking replacements into consideration, this leaves 149,726 employees remaining at the organization to fill these Senior roles.
 
-3. Of the 90,398 employees eligible for retirement, 45,397--or 50.2% of the group--are Engineering Positions. This information could prove useful to the Human Resources Department and Hiring Managers by way of preparation. These positions could have additional qualifications or skills required, as well as different approaches to recruiting, interviewing, and retention as opposed to Staff positions. The relative number of retiring employees by department is shown here in Figure 2.
+3. Of the 90,398 employees eligible for retirement, 45,397--or 50.2% of the group--are Engineering Positions. This information could prove useful to the Human Resources Department and Hiring Managers by way of preparation. These positions could have additional qualifications or skills required, as well as different approaches to recruiting, interviewing, and retention as opposed to Staff positions. For a different way to visualize the situation, and for reference, the relative number of retiring employees by department is shown here in Figure 2.
 
 ![Figure 2](Resources/Figure2.png "Figure 2")
 
@@ -95,6 +95,8 @@ While exploring the data provided and the relationships between them, we noticed
 
 ## Summary
 
-1. Of the 300,024 unique employee numbers present in the dataset, 240,124 represent current employees. The 90,398 employees currently eligible for retirement represent 37.6% of the current workforce. The yearslong dedication and contribution of these employees and managers is deeply valued by our organization. However, prior to engaging in a 1:1 replacement program, we should pause and consider what this change could mean for our organization. With a properly implemented Mentorship Program, combined with restructuring, improvements in operational efficiency, and training, could a nearly 40% smaller workforce be a blessing in disguise? Fewer desks, less office space required, a reduced payroll, slimmed down organization chart... This could result in a future where more Organization Dollars could be dedicated to Marketing, Research, and improving Customer Service, just as a start.
+1. Of the 300,024 unique employee numbers present in the dataset, 240,124 represent current employees. The 90,398 employees currently eligible for retirement represent 37.6% of the current workforce. The yearslong dedication and contribution of these employees and managers is deeply valued by our organization.
 
-2. Mentorship Program
+However, prior to diving headlong into a 1:1 replacement program, we should pause and consider what this change could mean for our organization. With a properly implemented Mentorship Program, combined with restructuring, improvements in operational efficiency, and training, could a smaller workforce be a blessing in disguise? Fewer desks, less office space required, a reduced payroll, slimmed down organization chart... This could result in a future where more Organization Dollars could be dedicated to Marketing, Research, and improving Customer Service, just as a start. The restructuring and modernization of IBM in the 1990s and 2000s provides a valuable instructive example here.
+
+2. Finally, let us consider the Mentorship Program.
