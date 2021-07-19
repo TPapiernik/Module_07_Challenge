@@ -26,7 +26,7 @@ aging workforce.
 
 Additional information about these resources is listed below in Table 1.
 
-Table 1:
+**Table 1:**
 | File Name             | Brief Description of Contents |
 |-----------------------|-------------------------------|
 | `departments.csv`     | Department numbers and names for the Nine (9) departments of Pewlett-Hackard |
@@ -38,11 +38,11 @@ Table 1:
 
 ## Results
 
-Before moving on to any commentary or analysis deriving from this project, we will present the deliverables requested.
+Before moving on to commentary and analysis, we will present the deliverables requested.
 
 1. The Number of Retiring Employees by Title is shown below in Table 2, and is also available in the project GitHub Repository as `retiring_titles.csv`.
 
-Table 2:
+**Table 2:**
 | Title | Count |
 |-------|-------|
 | Senior Engineer | 29414
@@ -52,6 +52,9 @@ Table 2:
 | Technique Leader | 4502
 | Assistant Engineer | 1761
 | Manager | 2
+
+2. The Employees Eligible for the Mentorship Program. There are a total of 1,549 current employees who are eligible for the mentorship program.
+In order to conserve space, the entire table will not be reproduced here, but it is available in the project GitHub Repository as `mentorship_eligibility.csv`.
 
 
 ## Summary
