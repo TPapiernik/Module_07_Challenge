@@ -122,3 +122,4 @@ Some other factors to look into that we have not yet considered here:
 	- Were the current employees hired previously gradually over time, or en masse?
 	- Similarly, do the ages of employees exist on a gentle continuous distribution, or are there clusters of age groups that could cause shocks as they transition into retirement?
 	- Historically, what has Employee Retention looked like by Department and Title?
+- How large by headcount are the Departments to begin with? Specifically, on a Percentage-wise and Time-wise basis, how will the retirements affect their day-to-day operations?
