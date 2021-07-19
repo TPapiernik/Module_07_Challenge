@@ -15,7 +15,8 @@ aging workforce.
 
 ### Resources
 
-- This Analysis and Report was compiled using all Internal Company Data, Provided by Management:
+- Software: PostgreSQL 11 (Input/Output, and Queries processed via pgAdmin 4)
+- Data: This Analysis and Report was compiled using all Internal Company Data, Provided by Management:
 	`departments.csv`
 	`dept_emp.csv`
 	`dept_manager.csv`
@@ -37,6 +38,20 @@ Table 1:
 
 ## Results
 
+Before moving on to any commentary or analysis deriving from this project, we will present the deliverables requested.
+
+1. The Number of Retiring Employees by Title is shown below in Table 2, and is also available in the project GitHub Repository as `retiring_titles.csv`.
+
+Table 2:
+| Title | Count |
+|-------|-------|
+| Senior Engineer | 29414
+| Senior Staff | 28254
+| Engineer | 14222
+| Staff | 12243
+| Technique Leader | 4502
+| Assistant Engineer | 1761
+| Manager | 2
 
 
 ## Summary
