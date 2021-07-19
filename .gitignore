@@ -46,6 +46,7 @@ employees.csv
 salaries.csv
 titles.csv
 unique_departments.csv
+unique_titles_departments.csv
 Employee_Challenge_starter_code.sql
 queries.sql
 Analysis/

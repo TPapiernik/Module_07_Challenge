@@ -70,17 +70,31 @@ In order to conserve space, the entire table will not be reproduced here, but it
 
 ### Commentary on Deliverables
 
-While exploring the data provided, and the relationships between them, we noticed a few things that were slightly out of the scope of our directive, but are definitely worth noting.
+While exploring the data provided and the relationships between them, we noticed a few things that warrant examination.
 
-1. Taking a look at just the Salaries Table, it would appear that either no employee has received a raise since January 31, 2001 at the latest, or else the original salaries data source has become corrupted, has not been updated, or there was some other error in data retrieval. A quick screen capture of what this looks like is shown here in Figure 1.
+1. Taking a look at just the Salaries Table, it would appear that either no employee has received a raise since January 31, 2001 at the latest, or the original salaries data source has become corrupted, or has not been updated, or there was some other error in data retrieval. A quick screen capture of what this looks like is shown here in Figure 1.
 
 **Figure 1:**
 
 ![Figure 1](Resources/Figure1.png "Figure 1")
 
-2.
-3.
-4.
+2. Of the 90,398 employees eligible for retirement, 57,668--or 63.8% of the group--currently occupy Senior Roles. Without taking replacements into consideration, this leaves 149,726 employees remaining at the organization to fill these Senior roles.
+
+3. Of the 90,398 employees eligible for retirement, 45,397--or 50.2% of the group--are Engineering Positions. This information could prove useful to the Human Resources Department and Hiring Managers by way of preparation. These positions could have additional qualifications or skills required, as well as different approaches to recruiting, interviewing, and retention as opposed to Staff positions. The relative number of retiring employees by department is shown here in Figure 2.
+
+![Figure 2](Resources/Figure2.png "Figure 2")
+
+
+
+4. If 1:1 Employee and Manager Replacement is desired, it should be noted that different divisions have different make-ups for their retiring workforces. The Development, Production, and Quality Management Departments have more retiring Engineers and Senior Engineers, while the remaining departments have more retiring Staff and Senior Staff. These relationships are visualized below in Figure 3.
+
+**Figure 3:**
+
+![Figure 3](Resources/Figure3.png "Figure 3")
 
 
 ## Summary
+
+1. Of the 300,024 unique employee numbers present in the dataset, 240,124 represent current employees. The 90,398 employees currently eligible for retirement represent 37.6% of the current workforce. The yearslong dedication and contribution of these employees and managers is deeply valued by our organization. However, prior to engaging in a 1:1 replacement program, we should pause and consider what this change could mean for our organization. With a properly implemented Mentorship Program, combined with restructuring, improvements in operational efficiency, and training, could a nearly 40% smaller workforce be a blessing in disguise? Fewer desks, less office space required, a reduced payroll, slimmed down organization chart... This could result in a future where more Organization Dollars could be dedicated to Marketing, Research, and improving Customer Service, just as a start.
+
+2. Mentorship Program
