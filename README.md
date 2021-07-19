@@ -25,11 +25,11 @@ aging workforce.
 
 Additional information about these resources is listed below in Table 1.
 
-| Table 1:
+Table 1:
 | File Name             | Brief Description of Contents |
 |-----------------------|-------------------------------|
 | `departments.csv`     | Department numbers and names for the Nine (9) departments of Pewlett-Hackard |
-| `dept_emp.csv`        | 
+| `dept_emp.csv`        | Listing of 331,603 current and former employee numbers with associated Department(s) and Dates |
 | `dept_manager.csv`
 | `employees.csv`
 | `salaries.csv`
