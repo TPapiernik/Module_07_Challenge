@@ -72,21 +72,21 @@ In order to conserve space, the entire table will not be reproduced here, but it
 
 While exploring the data provided and the relationships between them, we noticed a few things that warrant examination.
 
-1. Taking a look at just the Salaries Table, it would appear that either no employee has received a raise since January 31, 2001 at the latest, or the original salaries data source has become corrupted, or has not been updated, or there was some other error in data retrieval. A quick screen capture of what this looks like is shown here in Figure 1.
+- Taking a look at just the Salaries Table, it would appear that either no employee has received a raise since January 31, 2001 at the latest, or the original salaries data source has become corrupted, or has not been updated, or there was some other error in data retrieval. A quick screen capture of what this looks like is shown here in Figure 1.
 
 **Figure 1:**
 
 ![Figure 1](Resources/Figure1.png "Figure 1")
 
-2. Of the 90,398 employees eligible for retirement, 57,668--or 63.8% of the group--currently occupy Senior Roles. Without taking replacements into consideration, this leaves 149,726 employees remaining at the organization to fill these Senior roles.
+- Of the 90,398 employees eligible for retirement, 57,668--or 63.8% of the group--currently occupy Senior Roles. Without taking replacements into consideration, this leaves 149,726 employees remaining at the organization to fill these Senior roles.
 
-3. Of the 90,398 employees eligible for retirement, 45,397--or 50.2% of the group--are Engineering Positions. This information could prove useful to the Human Resources Department and Hiring Managers by way of preparation. These positions could have additional qualifications or skills required, as well as different approaches to recruiting, interviewing, and retention as opposed to Staff positions. For a different way to visualize the situation, and for reference, the relative number of retiring employees by department is shown here in Figure 2.
+- Of the 90,398 employees eligible for retirement, 45,397--or 50.2% of the group--are Engineering Positions. This information could prove useful to the Human Resources Department and Hiring Managers by way of preparation. These positions could have additional qualifications or skills required, as well as different approaches to recruiting, interviewing, and retention as opposed to Staff positions. For a different way to visualize the situation, and for reference, the relative number of retiring employees by department is shown here in Figure 2.
 
 ![Figure 2](Resources/Figure2.png "Figure 2")
 
 
 
-4. If 1:1 Employee and Manager Replacement is desired, it should be noted that different divisions have different make-ups for their retiring workforces. The Development, Production, and Quality Management Departments have more retiring Engineers and Senior Engineers, while the remaining departments have more retiring Staff and Senior Staff. These relationships are visualized below in Figure 3.
+- If 1:1 Employee and Manager Replacement is desired, it should be noted that different divisions have different make-ups for their retiring workforces. The Development, Production, and Quality Management Departments have more retiring Engineers and Senior Engineers, while the remaining departments have more retiring Staff and Senior Staff. These relationships are visualized below in Figure 3.
 
 **Figure 3:**
 
@@ -94,6 +94,8 @@ While exploring the data provided and the relationships between them, we noticed
 
 
 ## Summary
+
+### Discussion
 
 1. Of the 300,024 unique employee numbers present in the dataset, 240,124 represent current employees. The 90,398 employees currently eligible for retirement represent 37.6% of the current workforce. [If Management would like to reproduce the query that yielded these results, it is shown here in Figure 4. Plaintext available upon request.]
 
@@ -110,3 +112,13 @@ On the other hand, if we expand the pool of eligibility for the Mentorship Progr
 **Figure 5:**
 
 ![Figure 5](Resources/Figure5.png "Figure 5")
+
+### Moving Forward
+
+Some other factors to look into that we have not yet considered here:
+
+- Consider a more fine-grained analysis of the birth and hire dates of the current workforce.
+	- For even greater detail, break this down by Title -and/or- Department
+	- Were the current employees hired previously gradually over time, or en masse?
+	- Similarly, do the ages of employees exist on a gentle continuous distribution, or are there clusters of age groups that could cause shocks as they transition into retirement?
+	- Historically, what has Employee Retention looked like by Department and Title?
