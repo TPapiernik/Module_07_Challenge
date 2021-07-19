@@ -25,7 +25,7 @@ aging workforce.
 
 Additional information about these resources is listed below in Table 1.
 
-Table 1:
+| Table 1:
 | File Name             | Brief Description of Contents |
 |-----------------------|-------------------------------|
 | `departments.csv`     | Department numbers and names for the Nine (9) departments of Pewlett-Hackard |
