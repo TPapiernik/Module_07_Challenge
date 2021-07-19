@@ -97,7 +97,7 @@ While exploring the data provided and the relationships between them, we noticed
 
 ### Discussion
 
-1. Of the 300,024 unique employee numbers present in the dataset, 240,124 represent current employees. The 90,398 employees currently eligible for retirement represent 37.6% of the current workforce. [If Management would like to reproduce the query that yielded these results, it is shown here in Figure 4. Plaintext available upon request.]
+1. Of the 300,024 unique employee numbers present in the dataset, 240,124 represent current employees. The 90,398 employees currently eligible for retirement represent 37.6% of the current workforce. [If Management would like to reproduce the query that yielded these results, it is shown here in Figure 4. SQL Plaintext available upon request.]
 
 **Figure 4:**
 
@@ -107,7 +107,7 @@ The yearslong dedication and contribution of these employees and managers is dee
 
 2. Finally, let us consider the Mentorship Program. If we understand this program correctly, as it stands we would be expecting 1,549 experienced employees to mentor a replacement cadre of 90,398 employees among the remaining pool of 149,726, along with new hires. Working with these assumptions, that would require each Mentor to take 96 junior employees or new hires under their wing. Even with very informal mentorship, this seems unworkable and likely ineffective.
 
-On the other hand, if we expand the pool of eligibility for the Mentorship Program, the shape of the problem changes drastically. Just as an illustration, the pool was arbitrarily expanded to include employees born between January 1, 1960 and December 31, 1970. With current ages between 51 and 61, it is likely that many of these potential Mentors would still have sufficient experience and seniority to serve as effective mentors. In this case, there are 93,756 potential mentors available to help train and fill the needed 90,398 positions. Some of the mentors could potentially fill the positions themselves, each potential mentor could be assigned only one mentee for in-depth side-by-side training, and many senior employees who did not otherwise qualify or desire to be a mentor would not be required or needed to do so. [If Management would like to reproduce the query that yielded these results, it is shown here in Figure 5. Plaintext available upon request.]
+On the other hand, if we expand the pool of eligibility for the Mentorship Program, the shape of the problem changes drastically. Just as an illustration, the pool was arbitrarily expanded to include employees born between January 1, 1960 and December 31, 1970. With current ages between 51 and 61, it is likely that many of these potential Mentors would still have sufficient experience and seniority to serve as effective mentors. In this case, there are 93,756 potential mentors available to help train and fill the needed 90,398 positions. Some of the mentors could potentially fill the positions themselves, each potential mentor could be assigned only one mentee for in-depth side-by-side training, and many senior employees who did not otherwise qualify or desire to be a mentor would not be required or needed to do so. [If Management would like to reproduce the query that yielded these results, it is shown here in Figure 5. SQL Plaintext available upon request.]
 
 **Figure 5:**
 
