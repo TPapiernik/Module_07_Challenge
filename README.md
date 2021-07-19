@@ -29,11 +29,11 @@ Table 1:
 | File Name             | Brief Description of Contents |
 |-----------------------|-------------------------------|
 | `departments.csv`     | Department numbers and names for the Nine (9) departments of Pewlett-Hackard |
-| `dept_emp.csv`        | Listing of 331,603 current and former employee numbers with associated Department(s) and Dates |
-| `dept_manager.csv`
-| `employees.csv`
-| `salaries.csv`
-| `titles.csv`
+| `dept_emp.csv`        | Listing of 331,603 current and former employee numbers (300,024 unique) with associated Department(s) and Date(s) of position |
+| `dept_manager.csv`    | Listing of 24 current and former employee numbers of Department Managers with associated Department(s) and Date(s) of position |
+| `employees.csv`       | Listing of 300,024 unique current and former employee numbers with Birth Date, First Name, Last Name, Gender, and Hire Date |
+| `salaries.csv`        | Listing of 300,024 unique current and former employee numbers with Salary and Date(s) of associated pay |
+| `titles.csv`          | Listing of 443,308 current and former employee numbers (300,024 unique) with associated Job Title(s) and Date(s) of position |
 
 ## Results
 
