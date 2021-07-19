@@ -61,7 +61,7 @@ Before moving on to commentary and analysis, we will present the deliverables re
 | Assistant Engineer | 1761
 | Manager | 2
 
-Additionally, the Current Job Titles for all 90,398 employees currently eligible for retirement can be viewed in the project GitHub Repository under `Data/unique_titles.csv`. Complete information on each employee including all of their current and former job titles and position date(s) is under `Data/retirement_titles.csv`
+Additionally, the Current Job Titles for all 90,398 employees currently eligible for retirement can be viewed in the project GitHub Repository under `Data/unique_titles.csv`. Complete information on each employee including all of their current and former job title(s) and position date(s) is under `Data/retirement_titles.csv`
 
 2. The Employees Eligible for the Mentorship Program. There are a total of 1,549 current employees who are eligible for the mentorship program.
 In order to conserve space, the entire table will not be reproduced here, but it is available in the project GitHub Repository under `Data/mentorship_eligibility.csv`.
@@ -73,6 +73,7 @@ While exploring the data provided, and the relationships between them, we notice
 1. Taking a look at just the Salaries Table, it would appear that either no employee has received a raise since January 31, 2001 at the latest, or else the original salaries data source has become corrupted, has not been updated, or there was some other error in data retrieval. A quick screen capture of what this looks like is shown here in Figure 1:
 
 **Figure 1:**
+
 ![Figure 1](Resources/Figure1.png "Figure 1")
 
 2.
