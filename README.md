@@ -55,12 +55,12 @@ Before moving on to commentary and analysis, we will present the deliverables re
 **Table 2:**
 | Title | Count |
 |-------|-------|
-| Senior Engineer | 29414
-| Senior Staff | 28254
-| Engineer | 14222
-| Staff | 12243
-| Technique Leader | 4502
-| Assistant Engineer | 1761
+| Senior Engineer | 29,414
+| Senior Staff | 28,254
+| Engineer | 14,222
+| Staff | 12,243
+| Technique Leader | 4,502
+| Assistant Engineer | 1,761
 | Manager | 2
 
 Additionally, the Current Job Titles for all 90,398 employees currently eligible for retirement can be viewed in the project GitHub Repository under `Data/unique_titles.csv`. Complete information on each employee including all of their current and former job title(s) and position date(s) is under `Data/retirement_titles.csv`
