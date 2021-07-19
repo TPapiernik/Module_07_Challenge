@@ -20,7 +20,9 @@ Employees eligible for the Mentorship Program are those that: Were born between 
 
 ### Resources
 
-- Software: PostgreSQL 11 (Input/Output, and Queries processed via pgAdmin 4), Jupyter notebook server 6.3.0, running Python 3.7.10 64-bit (Dependencies: os, matplotlib, pandas, numpy)
+- Software:
+	- PostgreSQL 11 (Input/Output, and Queries processed via pgAdmin 4)
+	- Jupyter notebook server 6.3.0, running Python 3.7.10 64-bit (Dependencies: os, matplotlib, pandas, numpy)
 - Data: This Analysis and Report was compiled using all Internal Company Data, Provided by Management:
 	`departments.csv`
 	`dept_emp.csv`
